@@ -1,8 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
 import "./tabela.css";
-import Dipath from "../diapbarra.png";
-import Dimedia from "../diamedia.png";
-import Diabpath from "../diabarra.png";
+
 import Mapa from "./mapa.png";
 import axios from "axios";
 import { Link } from "react-router-dom";
